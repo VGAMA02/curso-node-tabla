@@ -1,0 +1,2 @@
+npm i nodemon --save-dev //instala nodemon para desarrollo
+npm i colors@1.4.0
